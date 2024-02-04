@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TicktMobile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="registration">Регистрация</string>
+    <string name="email">Электронная почта</string>
+    <string name="name">Имя</string>
+    <string name="password">Пароль</string>
+    <string name="repeatPassword">Повторите пароль</string>
+    <string name="registrationAccountButton">Зарегистрироваться</string>
+    <string name="signInAccountButton">Войти в аккаунт</string>
+</resources>
