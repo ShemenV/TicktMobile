@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-01T10:30:49.440Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="orUjaOt3MdNjbVqm71gF" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-01T10:37:06.137Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="-H5kIQ9uAZfbpRZZ95nH" version="24.4.13" type="github">
   <diagram name="Страница — 1" id="Wd8Lt1hOdJY-ABtcQ9To">
-    <mxGraphModel dx="1505" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1595" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -146,6 +146,9 @@
         <mxCell id="rrfpWrtRIMoo7r-Dwv4L-5" value="&lt;div&gt;GetInvites&lt;/div&gt;&lt;div&gt;UseCase.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-280" y="310" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="GL7n69devyDXVmoGjWVV-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rrfpWrtRIMoo7r-Dwv4L-6" target="GL7n69devyDXVmoGjWVV-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rrfpWrtRIMoo7r-Dwv4L-6" value="&lt;div&gt;CreateProject&lt;/div&gt;&lt;div&gt;UseCase.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="250" width="120" height="60" as="geometry" />
         </mxCell>
@@ -165,6 +168,9 @@
         </mxCell>
         <mxCell id="rrfpWrtRIMoo7r-Dwv4L-8" value="&lt;div&gt;AddTaskResources&lt;/div&gt;&lt;div&gt;UseCase.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="294" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GL7n69devyDXVmoGjWVV-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rrfpWrtRIMoo7r-Dwv4L-9" target="GL7n69devyDXVmoGjWVV-57">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rrfpWrtRIMoo7r-Dwv4L-9" value="&lt;div&gt;ChangeUserIcon&lt;/div&gt;&lt;div&gt;UseCase.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="294" y="320" width="120" height="60" as="geometry" />
@@ -204,14 +210,30 @@
         <mxCell id="rrfpWrtRIMoo7r-Dwv4L-15" value="&lt;div&gt;GetTaskMembers&lt;/div&gt;&lt;div&gt;UseCase.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="515" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="GL7n69devyDXVmoGjWVV-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rrfpWrtRIMoo7r-Dwv4L-16" target="GL7n69devyDXVmoGjWVV-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1119" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rrfpWrtRIMoo7r-Dwv4L-16" value="&lt;div&gt;ChangeTeamIcon&lt;/div&gt;&lt;div&gt;UseCase.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="567" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GL7n69devyDXVmoGjWVV-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rrfpWrtRIMoo7r-Dwv4L-17" target="GL7n69devyDXVmoGjWVV-45">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rrfpWrtRIMoo7r-Dwv4L-17" value="&lt;div&gt;CreateTeam&lt;/div&gt;&lt;div&gt;UseCase.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="567" y="320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="GL7n69devyDXVmoGjWVV-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rrfpWrtRIMoo7r-Dwv4L-18" target="GL7n69devyDXVmoGjWVV-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1250" y="923" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rrfpWrtRIMoo7r-Dwv4L-18" value="&lt;div&gt;GetMyTeams&lt;/div&gt;&lt;div&gt;UseCase.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="567" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GL7n69devyDXVmoGjWVV-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rrfpWrtRIMoo7r-Dwv4L-19" target="GL7n69devyDXVmoGjWVV-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rrfpWrtRIMoo7r-Dwv4L-19" value="&lt;div&gt;GetTeamById&lt;/div&gt;&lt;div&gt;UseCase.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="567" y="460" width="120" height="60" as="geometry" />
@@ -221,6 +243,9 @@
             <mxPoint x="480" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="GL7n69devyDXVmoGjWVV-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rrfpWrtRIMoo7r-Dwv4L-20" target="GL7n69devyDXVmoGjWVV-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rrfpWrtRIMoo7r-Dwv4L-20" value="&lt;div&gt;GetTeamMembers&lt;/div&gt;&lt;div&gt;UseCase.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="567" y="530" width="120" height="60" as="geometry" />
         </mxCell>
@@ -229,6 +254,9 @@
         </mxCell>
         <mxCell id="rrfpWrtRIMoo7r-Dwv4L-21" value="&lt;div&gt;GetOverdueCount&lt;/div&gt;&lt;div&gt;UseCase.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="707" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GL7n69devyDXVmoGjWVV-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rrfpWrtRIMoo7r-Dwv4L-22" target="GL7n69devyDXVmoGjWVV-39">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rrfpWrtRIMoo7r-Dwv4L-22" value="&lt;div&gt;SendInvite&lt;/div&gt;&lt;div&gt;UseCase.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="470" width="120" height="60" as="geometry" />
@@ -282,6 +310,20 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="658.5714285714286" y="910" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="GL7n69devyDXVmoGjWVV-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rrfpWrtRIMoo7r-Dwv4L-52" target="GL7n69devyDXVmoGjWVV-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GL7n69devyDXVmoGjWVV-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rrfpWrtRIMoo7r-Dwv4L-52" target="GL7n69devyDXVmoGjWVV-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GL7n69devyDXVmoGjWVV-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rrfpWrtRIMoo7r-Dwv4L-52" target="GL7n69devyDXVmoGjWVV-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1110" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GL7n69devyDXVmoGjWVV-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rrfpWrtRIMoo7r-Dwv4L-52" target="GL7n69devyDXVmoGjWVV-57">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rrfpWrtRIMoo7r-Dwv4L-52" value="&lt;div&gt;GetCurrentUser&lt;/div&gt;&lt;div&gt;UseCase.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1100" y="260" width="120" height="60" as="geometry" />
@@ -344,7 +386,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GL7n69devyDXVmoGjWVV-16" value="&lt;div&gt;TaskScreen&lt;/div&gt;&lt;div&gt;ViewModel.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="910" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GL7n69devyDXVmoGjWVV-17" value="TaskScreen.kt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="1000" width="120" height="60" as="geometry" />
@@ -360,6 +402,51 @@
         </mxCell>
         <mxCell id="rrfpWrtRIMoo7r-Dwv4L-12" value="&lt;div&gt;DeleteMember&lt;/div&gt;&lt;div&gt;FromTask&lt;/div&gt;&lt;div&gt;UseCase.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GL7n69devyDXVmoGjWVV-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="GL7n69devyDXVmoGjWVV-31" target="GL7n69devyDXVmoGjWVV-32" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GL7n69devyDXVmoGjWVV-31" value="&lt;div&gt;TasksScreen&lt;/div&gt;&lt;div&gt;ViewModel.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GL7n69devyDXVmoGjWVV-32" value="TasksScreen.kt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GL7n69devyDXVmoGjWVV-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="GL7n69devyDXVmoGjWVV-39" target="GL7n69devyDXVmoGjWVV-40" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GL7n69devyDXVmoGjWVV-39" value="&lt;div&gt;TeamMembers&lt;/div&gt;&lt;div&gt;Screen&lt;/div&gt;&lt;div&gt;ViewModel.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GL7n69devyDXVmoGjWVV-40" value="&lt;div&gt;TeamMembers&lt;/div&gt;&lt;div&gt;Screen.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GL7n69devyDXVmoGjWVV-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="GL7n69devyDXVmoGjWVV-42" target="GL7n69devyDXVmoGjWVV-43" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GL7n69devyDXVmoGjWVV-42" value="&lt;div&gt;TeamProfileScreen&lt;/div&gt;&lt;div&gt;ViewModel.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GL7n69devyDXVmoGjWVV-43" value="&lt;div&gt;TeamProfile&lt;/div&gt;&lt;div&gt;Screen.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GL7n69devyDXVmoGjWVV-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="GL7n69devyDXVmoGjWVV-45" target="GL7n69devyDXVmoGjWVV-46" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GL7n69devyDXVmoGjWVV-45" value="&lt;div&gt;TeamScreen&lt;/div&gt;&lt;div&gt;ViewModel.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GL7n69devyDXVmoGjWVV-46" value="TeamScreen.kt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GL7n69devyDXVmoGjWVV-56" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="GL7n69devyDXVmoGjWVV-57" target="GL7n69devyDXVmoGjWVV-58" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GL7n69devyDXVmoGjWVV-57" value="&lt;div&gt;UserProfileScreen&lt;/div&gt;&lt;div&gt;ViewModel.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GL7n69devyDXVmoGjWVV-58" value="&lt;div&gt;UserProfile&lt;/div&gt;&lt;div&gt;Screen.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
