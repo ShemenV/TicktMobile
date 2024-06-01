@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-01T07:21:23.156Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="s8kJcvg0l9zMvMebSJPK" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-01T07:28:25.686Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="bf6YBZA6fXjrzW5cmKmP" version="24.4.13" type="github">
   <diagram name="Страница — 1" id="Wd8Lt1hOdJY-ABtcQ9To">
-    <mxGraphModel dx="1299" dy="1922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,28 +50,28 @@
           <mxGeometry x="300" y="720" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rrfpWrtRIMoo7r-Dwv4L-2" value="&lt;div&gt;AcceptInvite&lt;/div&gt;&lt;div&gt;UseCase.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rrfpWrtRIMoo7r-Dwv4L-3" value="&lt;div&gt;GetInviteById&lt;/div&gt;&lt;div&gt;UseCase.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rrfpWrtRIMoo7r-Dwv4L-4" value="&lt;div&gt;DeclineInvite&lt;/div&gt;&lt;div&gt;UseCase.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rrfpWrtRIMoo7r-Dwv4L-5" value="&lt;div&gt;GetInvites&lt;/div&gt;&lt;div&gt;UseCase.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rrfpWrtRIMoo7r-Dwv4L-6" value="&lt;div&gt;CreateProject&lt;/div&gt;&lt;div&gt;UseCase.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rrfpWrtRIMoo7r-Dwv4L-7" value="&lt;div&gt;GetProjectById&lt;/div&gt;&lt;div&gt;UseCase.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rrfpWrtRIMoo7r-Dwv4L-8" value="&lt;div&gt;AddTaskResources&lt;/div&gt;&lt;div&gt;UseCase.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rrfpWrtRIMoo7r-Dwv4L-9" value="&lt;div&gt;ChangeUserIcon&lt;/div&gt;&lt;div&gt;UseCase.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="294" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rrfpWrtRIMoo7r-Dwv4L-10" value="&lt;div&gt;AddMembersToTask&lt;/div&gt;&lt;div&gt;UseCase.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="250" width="120" height="60" as="geometry" />
@@ -91,25 +91,25 @@
         <mxCell id="rrfpWrtRIMoo7r-Dwv4L-15" value="&lt;div&gt;GetTaskMembers&lt;/div&gt;&lt;div&gt;UseCase.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rrfpWrtRIMoo7r-Dwv4L-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rrfpWrtRIMoo7r-Dwv4L-16" value="&lt;div&gt;ChangeTeamIcon&lt;/div&gt;&lt;div&gt;UseCase.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="567" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rrfpWrtRIMoo7r-Dwv4L-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rrfpWrtRIMoo7r-Dwv4L-17" value="&lt;div&gt;CreateTeam&lt;/div&gt;&lt;div&gt;UseCase.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="567" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rrfpWrtRIMoo7r-Dwv4L-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rrfpWrtRIMoo7r-Dwv4L-18" value="&lt;div&gt;GetMyTeams&lt;/div&gt;&lt;div&gt;UseCase.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="567" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rrfpWrtRIMoo7r-Dwv4L-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rrfpWrtRIMoo7r-Dwv4L-19" value="&lt;div&gt;GetTeamById&lt;/div&gt;&lt;div&gt;UseCase.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="567" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rrfpWrtRIMoo7r-Dwv4L-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rrfpWrtRIMoo7r-Dwv4L-20" value="&lt;div&gt;GetTeamMembers&lt;/div&gt;&lt;div&gt;UseCase.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="567" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rrfpWrtRIMoo7r-Dwv4L-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rrfpWrtRIMoo7r-Dwv4L-21" value="&lt;div&gt;GetOverdueCount&lt;/div&gt;&lt;div&gt;UseCase.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rrfpWrtRIMoo7r-Dwv4L-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rrfpWrtRIMoo7r-Dwv4L-22" value="&lt;div&gt;SendInvite&lt;/div&gt;&lt;div&gt;UseCase.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
