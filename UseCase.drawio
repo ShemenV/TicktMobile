@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-01T07:28:25.686Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="bf6YBZA6fXjrzW5cmKmP" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-01T07:31:47.369Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="BiZBqVWLAuAuMSalwyaC" version="24.4.13" type="github">
   <diagram name="Страница — 1" id="Wd8Lt1hOdJY-ABtcQ9To">
-    <mxGraphModel dx="1434" dy="1923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="472" dy="1922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,6 +36,24 @@
         </mxCell>
         <mxCell id="PsXaZOM_-T2VpOONmFBl-5" value="&lt;div&gt;SessionCache&lt;/div&gt;&lt;div&gt;Repository.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="-10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rrfpWrtRIMoo7r-Dwv4L-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PsXaZOM_-T2VpOONmFBl-6" target="rrfpWrtRIMoo7r-Dwv4L-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rrfpWrtRIMoo7r-Dwv4L-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PsXaZOM_-T2VpOONmFBl-6" target="rrfpWrtRIMoo7r-Dwv4L-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rrfpWrtRIMoo7r-Dwv4L-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PsXaZOM_-T2VpOONmFBl-6" target="rrfpWrtRIMoo7r-Dwv4L-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rrfpWrtRIMoo7r-Dwv4L-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PsXaZOM_-T2VpOONmFBl-6" target="rrfpWrtRIMoo7r-Dwv4L-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rrfpWrtRIMoo7r-Dwv4L-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PsXaZOM_-T2VpOONmFBl-6" target="rrfpWrtRIMoo7r-Dwv4L-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rrfpWrtRIMoo7r-Dwv4L-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PsXaZOM_-T2VpOONmFBl-6" target="rrfpWrtRIMoo7r-Dwv4L-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PsXaZOM_-T2VpOONmFBl-6" value="TaskRepository.kt" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="170" width="120" height="60" as="geometry" />
@@ -111,6 +129,12 @@
         </mxCell>
         <mxCell id="rrfpWrtRIMoo7r-Dwv4L-22" value="&lt;div&gt;SendInvite&lt;/div&gt;&lt;div&gt;UseCase.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rrfpWrtRIMoo7r-Dwv4L-30" value="&lt;div&gt;Authorization&lt;/div&gt;&lt;div&gt;UseCase.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rrfpWrtRIMoo7r-Dwv4L-31" value="&lt;div&gt;Registration&lt;/div&gt;&lt;div&gt;UseCase.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
