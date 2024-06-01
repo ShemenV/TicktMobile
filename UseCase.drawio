@@ -1,9 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2024-05-31T19:01:41.010Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" version="24.4.13" etag="QMTCNNF62k7wuK9Wj7-0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-01T07:04:25.125Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="JgVJiIZzJn-Kn52uZs-g" version="24.4.13" type="github">
   <diagram name="Страница — 1" id="Wd8Lt1hOdJY-ABtcQ9To">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="1699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PsXaZOM_-T2VpOONmFBl-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PsXaZOM_-T2VpOONmFBl-1" target="PsXaZOM_-T2VpOONmFBl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PsXaZOM_-T2VpOONmFBl-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PsXaZOM_-T2VpOONmFBl-1" target="PsXaZOM_-T2VpOONmFBl-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PsXaZOM_-T2VpOONmFBl-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PsXaZOM_-T2VpOONmFBl-1" target="PsXaZOM_-T2VpOONmFBl-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PsXaZOM_-T2VpOONmFBl-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PsXaZOM_-T2VpOONmFBl-1" target="PsXaZOM_-T2VpOONmFBl-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PsXaZOM_-T2VpOONmFBl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PsXaZOM_-T2VpOONmFBl-1" target="PsXaZOM_-T2VpOONmFBl-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PsXaZOM_-T2VpOONmFBl-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PsXaZOM_-T2VpOONmFBl-1" target="PsXaZOM_-T2VpOONmFBl-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PsXaZOM_-T2VpOONmFBl-1" value="ApiService.kt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PsXaZOM_-T2VpOONmFBl-2" value="InviteRepository.kt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PsXaZOM_-T2VpOONmFBl-3" value="ProjectRepository.kt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PsXaZOM_-T2VpOONmFBl-4" value="&lt;div&gt;Resources&lt;/div&gt;&lt;div&gt;Repository.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PsXaZOM_-T2VpOONmFBl-5" value="&lt;div&gt;SessionCache&lt;/div&gt;&lt;div&gt;Repository.kt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PsXaZOM_-T2VpOONmFBl-6" value="TaskRepository.kt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PsXaZOM_-T2VpOONmFBl-7" value="TeamRepository.kt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="567" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PsXaZOM_-T2VpOONmFBl-8" value="UserRepository.kt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
